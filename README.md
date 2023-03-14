@@ -1,4 +1,4 @@
-# eyes
+# eyes movements
 Project Title: Eyes Movements
 
 Description of Project: 
