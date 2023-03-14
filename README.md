@@ -4,6 +4,9 @@ Project Title: Eyes Movements
 Description of Project: 
 In this project activity, the mouse movement event is used to update the position of the “eye” element displayed on the page. Both eye balls will stare and looks at where the position of mouse cursier is at. 
 
+How to Run: 
+Download all the files cintains within this respositiories and open the html file, the action will appeared within the webpage.
+
 Roadmap of future improvements: 
 The future improvements of this project will be add the nose, mouth into this program, where when the mouse is clicked, there will be a actions appeared on nose and mouth.
 
